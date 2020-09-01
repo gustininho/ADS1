@@ -1,0 +1,430 @@
+I DALIS
+
+Iveskite paprasto kliento tikimybe procentais
+50
+Iveskite VIP kliento tikimybe procentais
+30
+Iveskite banko darbuotoju paprastiems klientams kieki:
+2
+Iveskite banko darbuotoju VIP klientams kieki:
+2
+Iveskite VIP kliento aptarnavimo trukme:
+7
+Iveskite paprasto kliento aptarnavimo trukme:
+9
+Iveskite darbo dienos trukme
+100
+
+
+II DALIS
+
+-----PRASIDEDA-PIRMAS-PROCESAS-------
+T=1  Atejo klientas 1 (VIP). Klientas 1 nueina pas darbuotoja 1.
+T=2  Atejo klientas 2 (VIP). Klientas 2 nueina pas darbuotoja 2.
+T=3  Atejo klientas 3 (VIP). Klientas 3 nueina pas darbuotoja 3.
+T=4  Atejo klientas 4 (paprastas). Klientas 4 nueina pas darbuotoja 4.
+T=5  Atejo klientas 5 (VIP).
+T=6  Atejo klientas 6 (paprastas).
+T=7  Atejo klientas 7 (VIP). Darbuotojas 1 atsilaisvino.
+T=8  Atejo klientas 8 (VIP). Klientas 5 nueina pas darbuotoja 1. Darbuotojas 2 atsilaisvino.
+T=9  Atejo klientas 9 (paprastas). Klientas 7 nueina pas darbuotoja 2. Darbuotojas 3 atsilaisvino.
+T=10 Atejo klientas 10 (paprastas). Klientas 8 nueina pas darbuotoja 3.
+T=11
+T=12 Atejo klientas 11 (paprastas). Darbuotojas 4 atsilaisvino.
+T=13 Atejo klientas 12 (VIP). Klientas 12 nueina pas darbuotoja 4.
+T=14 Darbuotojas 1 atsilaisvino.
+T=15 Klientas 6 nueina pas darbuotoja 1. Darbuotojas 2 atsilaisvino.
+T=16 Atejo klientas 13 (paprastas). Klientas 9 nueina pas darbuotoja 2. Darbuotojas 3 atsilaisvino.
+T=17 Atejo klientas 14 (paprastas). Klientas 10 nueina pas darbuotoja 3.
+T=18 Atejo klientas 15 (paprastas).
+T=19 Atejo klientas 16 (VIP). Darbuotojas 4 atsilaisvino.
+T=20 Atejo klientas 17 (paprastas). Klientas 16 nueina pas darbuotoja 4.
+T=21 Atejo klientas 18 (paprastas).
+T=22
+T=23 Darbuotojas 1 atsilaisvino.
+T=24 Atejo klientas 19 (paprastas). Klientas 11 nueina pas darbuotoja 1. Darbuotojas 2 atsilaisvino.
+T=25 Atejo klientas 20 (VIP). Klientas 20 nueina pas darbuotoja 2. Darbuotojas 3 atsilaisvino.
+T=26 Atejo klientas 21 (paprastas). Klientas 13 nueina pas darbuotoja 3. Darbuotojas 4 atsilaisvino.
+T=27 Klientas 14 nueina pas darbuotoja 4.
+T=28 Atejo klientas 22 (paprastas).
+T=29
+T=30 Atejo klientas 23 (paprastas).
+T=31 Atejo klientas 24 (paprastas). Darbuotojas 2 atsilaisvino.
+T=32 Atejo klientas 25 (paprastas). Klientas 15 nueina pas darbuotoja 2. Darbuotojas 1 atsilaisvino.
+T=33 Atejo klientas 26 (paprastas). Klientas 17 nueina pas darbuotoja 1.
+T=34 Darbuotojas 3 atsilaisvino.
+T=35 Klientas 18 nueina pas darbuotoja 3. Darbuotojas 4 atsilaisvino.
+T=36 Klientas 19 nueina pas darbuotoja 4.
+T=37 Atejo klientas 27 (VIP).
+T=38
+T=39 Atejo klientas 28 (paprastas).
+T=40 Atejo klientas 29 (paprastas). Darbuotojas 2 atsilaisvino.
+T=41 Atejo klientas 30 (paprastas). Klientas 27 nueina pas darbuotoja 2. Darbuotojas 1 atsilaisvino.
+T=42 Atejo klientas 31 (VIP). Klientas 31 nueina pas darbuotoja 1.
+T=43 Atejo klientas 32 (paprastas). Darbuotojas 3 atsilaisvino.
+T=44 Atejo klientas 33 (paprastas). Klientas 21 nueina pas darbuotoja 3. Darbuotojas 4 atsilaisvino.
+T=45 Atejo klientas 34 (VIP). Klientas 34 nueina pas darbuotoja 4.
+T=46 Atejo klientas 35 (paprastas).
+T=47 Atejo klientas 36 (VIP). Darbuotojas 2 atsilaisvino.
+T=48 Atejo klientas 37 (paprastas). Klientas 36 nueina pas darbuotoja 2. Darbuotojas 1 atsilaisvino.
+T=49 Atejo klientas 38 (paprastas). Klientas 22 nueina pas darbuotoja 1.
+T=50 Atejo klientas 39 (VIP).
+T=51 Atejo klientas 40 (paprastas). Darbuotojas 4 atsilaisvino.
+T=52 Atejo klientas 41 (paprastas). Klientas 39 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=53 Atejo klientas 42 (VIP). Klientas 42 nueina pas darbuotoja 3.
+T=54 Atejo klientas 43 (VIP). Darbuotojas 2 atsilaisvino.
+T=55 Klientas 43 nueina pas darbuotoja 2.
+T=56 Atejo klientas 44 (VIP).
+T=57 Darbuotojas 1 atsilaisvino.
+T=58 Atejo klientas 45 (VIP). Klientas 44 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=59 Atejo klientas 46 (VIP). Klientas 45 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=60 Atejo klientas 47 (VIP). Klientas 46 nueina pas darbuotoja 3.
+T=61 Atejo klientas 48 (paprastas). Darbuotojas 2 atsilaisvino.
+T=62 Atejo klientas 49 (paprastas). Klientas 47 nueina pas darbuotoja 2.
+T=63 Atejo klientas 50 (VIP).
+T=64 Atejo klientas 51 (paprastas). Darbuotojas 1 atsilaisvino.
+T=65 Atejo klientas 52 (paprastas). Klientas 50 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=66 Atejo klientas 53 (paprastas). Klientas 23 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=67 Atejo klientas 54 (paprastas). Klientas 24 nueina pas darbuotoja 3.
+T=68 Atejo klientas 55 (paprastas). Darbuotojas 2 atsilaisvino.
+T=69 Atejo klientas 56 (paprastas). Klientas 25 nueina pas darbuotoja 2.
+T=70
+T=71 Atejo klientas 57 (paprastas). Darbuotojas 1 atsilaisvino.
+T=72 Atejo klientas 58 (VIP). Klientas 58 nueina pas darbuotoja 1.
+T=73 Atejo klientas 59 (VIP).
+T=74 Atejo klientas 60 (paprastas). Darbuotojas 4 atsilaisvino.
+T=75 Atejo klientas 61 (paprastas). Klientas 59 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=76 Klientas 26 nueina pas darbuotoja 3.
+T=77 Atejo klientas 62 (paprastas). Darbuotojas 2 atsilaisvino.
+T=78 Klientas 28 nueina pas darbuotoja 2. Darbuotojas 1 atsilaisvino.
+T=79 Atejo klientas 63 (paprastas). Klientas 29 nueina pas darbuotoja 1.
+T=80
+T=81 Atejo klientas 64 (VIP). Darbuotojas 4 atsilaisvino.
+T=82 Atejo klientas 65 (paprastas). Klientas 64 nueina pas darbuotoja 4.
+T=83 Atejo klientas 66 (VIP).
+T=84 Atejo klientas 67 (VIP). Darbuotojas 3 atsilaisvino.
+T=85 Atejo klientas 68 (VIP). Klientas 66 nueina pas darbuotoja 3.
+T=86 Atejo klientas 69 (VIP). Darbuotojas 2 atsilaisvino.
+T=87 Atejo klientas 70 (paprastas). Klientas 67 nueina pas darbuotoja 2. Darbuotojas 1 atsilaisvino.
+T=88 Klientas 68 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=89 Klientas 69 nueina pas darbuotoja 4.
+T=90 Atejo klientas 71 (VIP).
+T=91 Atejo klientas 72 (paprastas). Darbuotojas 3 atsilaisvino.
+T=92 Klientas 71 nueina pas darbuotoja 3.
+T=93 Atejo klientas 73 (VIP). Darbuotojas 2 atsilaisvino.
+T=94 Klientas 73 nueina pas darbuotoja 2. Darbuotojas 1 atsilaisvino.
+T=95 Atejo klientas 74 (paprastas). Klientas 30 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=96 Atejo klientas 75 (paprastas). Klientas 32 nueina pas darbuotoja 4.
+T=97 Atejo klientas 76 (paprastas).
+T=98 Atejo klientas 77 (VIP). Darbuotojas 3 atsilaisvino.
+T=99 Atejo klientas 78 (VIP). Klientas 77 nueina pas darbuotoja 3.
+T=100 Atejo klientas 79 (paprastas). Darbuotojas 2 atsilaisvino.
+-----DARBO-DIENOS-PABAIGA----------
+T=101 Klientas 78 nueina pas darbuotoja 2.
+T=102
+T=103 Darbuotojas 1 atsilaisvino.
+T=104 Klientas 33 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=105 Klientas 35 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=106 Klientas 37 nueina pas darbuotoja 3.
+T=107 Darbuotojas 2 atsilaisvino.
+T=108 Klientas 38 nueina pas darbuotoja 2.
+T=109
+T=110
+T=111
+T=112 Darbuotojas 1 atsilaisvino.
+T=113 Klientas 40 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=114 Klientas 41 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=115 Klientas 48 nueina pas darbuotoja 3.
+T=116 Darbuotojas 2 atsilaisvino.
+T=117 Klientas 49 nueina pas darbuotoja 2.
+T=118
+T=119
+T=120
+T=121 Darbuotojas 1 atsilaisvino.
+T=122 Klientas 51 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=123 Klientas 52 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=124 Klientas 53 nueina pas darbuotoja 3.
+T=125 Darbuotojas 2 atsilaisvino.
+T=126 Klientas 54 nueina pas darbuotoja 2.
+T=127
+T=128
+T=129
+T=130 Darbuotojas 1 atsilaisvino.
+T=131 Klientas 55 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=132 Klientas 56 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=133 Klientas 57 nueina pas darbuotoja 3.
+T=134 Darbuotojas 2 atsilaisvino.
+T=135 Klientas 60 nueina pas darbuotoja 2.
+T=136
+T=137
+T=138
+T=139 Darbuotojas 1 atsilaisvino.
+T=140 Klientas 61 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=141 Klientas 62 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=142 Klientas 63 nueina pas darbuotoja 3.
+T=143 Darbuotojas 2 atsilaisvino.
+T=144 Klientas 65 nueina pas darbuotoja 2.
+T=145
+T=146
+T=147
+T=148 Darbuotojas 1 atsilaisvino.
+T=149 Klientas 70 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=150 Klientas 72 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=151 Klientas 74 nueina pas darbuotoja 3.
+T=152 Darbuotojas 2 atsilaisvino.
+T=153 Klientas 75 nueina pas darbuotoja 2.
+T=154
+T=155
+T=156
+T=157 Darbuotojas 1 atsilaisvino.
+T=158 Klientas 76 nueina pas darbuotoja 1. Darbuotojas 4 atsilaisvino.
+T=159 Klientas 79 nueina pas darbuotoja 4. Darbuotojas 3 atsilaisvino.
+T=160 Darbuotojas 2 atsilaisvino.
+T=161
+T=162
+T=163
+T=164
+T=165 Darbuotojas 1 atsilaisvino.
+T=166 Darbuotojas 4 atsilaisvino.
+Suminis kasininku prastovu laikas: 6
+Trigubas paprasto kliento laukimo vidurkis: 76.612500
+Vip desimtgubas ilgiausias laukimo laikas: 40
+Dvigubas kasininku virsvalandziu laikas: 500
+
+-----PRASIDEDA-ANTRAS-PROCESAS-------
+
+T=1  Atejo klientas 1 (VIP). Klientas (VIP) 1 nueina pas darbuotoja 1.
+T=2  Atejo klientas 2 (VIP). Klientas (VIP) 2 nueina pas darbuotoja 2.
+T=3  Atejo klientas 3 (VIP).
+T=4  Atejo klientas 4 (paprastas). Klientas (paprastas) 4 nueina pas darbuotoja 3.
+T=5  Atejo klientas 5 (VIP).
+T=6  Atejo klientas 6 (paprastas). Klientas (paprastas) 6 nueina pas darbuotoja 4.
+T=7  Atejo klientas 7 (VIP). Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=8  Atejo klientas 8 (VIP). Klientas (VIP) 3 nueina pas darbuotoja 1. Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=9  Atejo klientas 9 (paprastas). Klientas (VIP) 5 nueina pas darbuotoja 2.
+T=10 Atejo klientas 10 (paprastas).
+T=11
+T=12 Atejo klientas 11 (paprastas). Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=13 Atejo klientas 12 (VIP). Klientas (paprastas) 9 nueina pas darbuotoja 3.
+T=14 Darbuotojas (VIP klientams) 1 atsilaisvino. Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=15 Klientas (VIP) 7 nueina pas darbuotoja 1. Darbuotojas (VIP klientams) 2 atsilaisvino. Klientas (paprastas) 10 nueina pas darbuotoja 4.
+T=16 Atejo klientas 13 (paprastas). Klientas (VIP) 8 nueina pas darbuotoja 2.
+T=17 Atejo klientas 14 (paprastas).
+T=18 Atejo klientas 15 (paprastas).
+T=19 Atejo klientas 16 (VIP).
+T=20 Atejo klientas 17 (paprastas).
+T=21 Atejo klientas 18 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino. Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=22 Klientas (VIP) 12 nueina pas darbuotoja 1. Darbuotojas (VIP klientams) 2 atsilaisvino. Klientas (paprastas) 11 nueina pas darbuotoja 3.
+T=23 Klientas (VIP) 16 nueina pas darbuotoja 2. Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=24 Atejo klientas 19 (paprastas). Klientas (paprastas) 13 nueina pas darbuotoja 4.
+T=25 Atejo klientas 20 (VIP).
+T=26 Atejo klientas 21 (paprastas).
+T=27
+T=28 Atejo klientas 22 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=29 Klientas (VIP) 20 nueina pas darbuotoja 1. Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=30 Atejo klientas 23 (paprastas). Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=31 Atejo klientas 24 (paprastas). Klientas (paprastas) 14 nueina pas darbuotoja 3.
+T=32 Atejo klientas 25 (paprastas). Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=33 Atejo klientas 26 (paprastas). Klientas (paprastas) 15 nueina pas darbuotoja 4.
+T=34
+T=35 Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=36
+T=37 Atejo klientas 27 (VIP). Klientas (VIP) 27 nueina pas darbuotoja 1.
+T=38
+T=39 Atejo klientas 28 (paprastas). Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=40 Atejo klientas 29 (paprastas). Klientas (paprastas) 17 nueina pas darbuotoja 3.
+T=41 Atejo klientas 30 (paprastas). Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=42 Atejo klientas 31 (VIP). Klientas (VIP) 31 nueina pas darbuotoja 2. Klientas (paprastas) 18 nueina pas darbuotoja 4.
+T=43 Atejo klientas 32 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=44 Atejo klientas 33 (paprastas).
+T=45 Atejo klientas 34 (VIP). Klientas (VIP) 34 nueina pas darbuotoja 1.
+T=46 Atejo klientas 35 (paprastas).
+T=47 Atejo klientas 36 (VIP).
+T=48 Atejo klientas 37 (paprastas). Darbuotojas (VIP klientams) 2 atsilaisvino. Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=49 Atejo klientas 38 (paprastas). Klientas (VIP) 36 nueina pas darbuotoja 2. Klientas (paprastas) 19 nueina pas darbuotoja 3.
+T=50 Atejo klientas 39 (VIP). Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=51 Atejo klientas 40 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino. Klientas (paprastas) 21 nueina pas darbuotoja 4.
+T=52 Atejo klientas 41 (paprastas). Klientas (VIP) 39 nueina pas darbuotoja 1.
+T=53 Atejo klientas 42 (VIP).
+T=54 Atejo klientas 43 (VIP).
+T=55 Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=56 Atejo klientas 44 (VIP). Klientas (VIP) 42 nueina pas darbuotoja 2.
+T=57 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=58 Atejo klientas 45 (VIP). Darbuotojas (VIP klientams) 1 atsilaisvino. Klientas (paprastas) 22 nueina pas darbuotoja 3.
+T=59 Atejo klientas 46 (VIP). Klientas (VIP) 43 nueina pas darbuotoja 1. Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=60 Atejo klientas 47 (VIP). Klientas (paprastas) 23 nueina pas darbuotoja 4.
+T=61 Atejo klientas 48 (paprastas).
+T=62 Atejo klientas 49 (paprastas). Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=63 Atejo klientas 50 (VIP). Klientas (VIP) 44 nueina pas darbuotoja 2.
+T=64 Atejo klientas 51 (paprastas).
+T=65 Atejo klientas 52 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=66 Atejo klientas 53 (paprastas). Klientas (VIP) 45 nueina pas darbuotoja 1. Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=67 Atejo klientas 54 (paprastas). Klientas (paprastas) 24 nueina pas darbuotoja 3.
+T=68 Atejo klientas 55 (paprastas). Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=69 Atejo klientas 56 (paprastas). Darbuotojas (VIP klientams) 2 atsilaisvino. Klientas (paprastas) 25 nueina pas darbuotoja 4.
+T=70 Klientas (VIP) 46 nueina pas darbuotoja 2.
+T=71 Atejo klientas 57 (paprastas).
+T=72 Atejo klientas 58 (VIP). Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=73 Atejo klientas 59 (VIP). Klientas (VIP) 47 nueina pas darbuotoja 1.
+T=74 Atejo klientas 60 (paprastas).
+T=75 Atejo klientas 61 (paprastas). Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=76 Darbuotojas (VIP klientams) 2 atsilaisvino. Klientas (paprastas) 26 nueina pas darbuotoja 3.
+T=77 Atejo klientas 62 (paprastas). Klientas (VIP) 50 nueina pas darbuotoja 2. Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=78 Klientas (paprastas) 28 nueina pas darbuotoja 4.
+T=79 Atejo klientas 63 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=80 Klientas (VIP) 58 nueina pas darbuotoja 1.
+T=81 Atejo klientas 64 (VIP).
+T=82 Atejo klientas 65 (paprastas).
+T=83 Atejo klientas 66 (VIP). Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=84 Atejo klientas 67 (VIP). Klientas (VIP) 59 nueina pas darbuotoja 2. Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=85 Atejo klientas 68 (VIP). Klientas (paprastas) 29 nueina pas darbuotoja 3.
+T=86 Atejo klientas 69 (VIP). Darbuotojas (VIP klientams) 1 atsilaisvino. Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=87 Atejo klientas 70 (paprastas). Klientas (VIP) 64 nueina pas darbuotoja 1. Klientas (paprastas) 30 nueina pas darbuotoja 4.
+T=88
+T=89
+T=90 Atejo klientas 71 (VIP). Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=91 Atejo klientas 72 (paprastas). Klientas (VIP) 66 nueina pas darbuotoja 2.
+T=92
+T=93 Atejo klientas 73 (VIP). Darbuotojas (VIP klientams) 1 atsilaisvino. Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=94 Klientas (VIP) 67 nueina pas darbuotoja 1. Klientas (paprastas) 32 nueina pas darbuotoja 3.
+T=95 Atejo klientas 74 (paprastas). Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=96 Atejo klientas 75 (paprastas). Klientas (paprastas) 33 nueina pas darbuotoja 4.
+T=97 Atejo klientas 76 (paprastas). Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=98 Atejo klientas 77 (VIP). Klientas (VIP) 68 nueina pas darbuotoja 2.
+T=99 Atejo klientas 78 (VIP).
+T=100 Atejo klientas 79 (paprastas). Darbuotojas (VIP klientams) 1 atsilaisvino.
+-----DARBO-DIENOS-PABAIGA----------
+T=101 Klientas (VIP) 69 nueina pas darbuotoja 1.
+T=102 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=103 Klientas (paprastas) 35 nueina pas darbuotoja 3.
+T=104 Darbuotojas (VIP klientams) 2 atsilaisvino. Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=105 Klientas (VIP) 71 nueina pas darbuotoja 2. Klientas (paprastas) 37 nueina pas darbuotoja 4.
+T=106
+T=107 Darbuotojas (VIP klientams) 1 atsilaisvino.
+T=108 Klientas (VIP) 73 nueina pas darbuotoja 1.
+T=109
+T=110
+T=111 Darbuotojas (VIP klientams) 2 atsilaisvino. Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=112 Klientas (VIP) 77 nueina pas darbuotoja 2. Klientas (paprastas) 38 nueina pas darbuotoja 3.
+T=113 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=114 Darbuotojas (VIP klientams) 1 atsilaisvino. Klientas (paprastas) 40 nueina pas darbuotoja 4.
+T=115 Klientas (VIP) 78 nueina pas darbuotoja 1.
+T=116
+T=117
+T=118 Darbuotojas (VIP klientams) 2 atsilaisvino.
+T=119
+T=120 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=121 Darbuotojas (VIP klientams) 1 atsilaisvino. Klientas (paprastas) 41 nueina pas darbuotoja 3.
+T=122 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=123 Klientas (paprastas) 48 nueina pas darbuotoja 4.
+T=124
+T=125
+T=126
+T=127
+T=128
+T=129 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=130 Klientas (paprastas) 49 nueina pas darbuotoja 3.
+T=131 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=132 Klientas (paprastas) 51 nueina pas darbuotoja 4.
+T=133
+T=134
+T=135
+T=136
+T=137
+T=138 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=139 Klientas (paprastas) 52 nueina pas darbuotoja 3.
+T=140 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=141 Klientas (paprastas) 53 nueina pas darbuotoja 4.
+T=142
+T=143
+T=144
+T=145
+T=146
+T=147 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=148 Klientas (paprastas) 54 nueina pas darbuotoja 3.
+T=149 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=150 Klientas (paprastas) 55 nueina pas darbuotoja 4.
+T=151
+T=152
+T=153
+T=154
+T=155
+T=156 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=157 Klientas (paprastas) 56 nueina pas darbuotoja 3.
+T=158 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=159 Klientas (paprastas) 57 nueina pas darbuotoja 4.
+T=160
+T=161
+T=162
+T=163
+T=164
+T=165 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=166 Klientas (paprastas) 60 nueina pas darbuotoja 3.
+T=167 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=168 Klientas (paprastas) 61 nueina pas darbuotoja 4.
+T=169
+T=170
+T=171
+T=172
+T=173
+T=174 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=175 Klientas (paprastas) 62 nueina pas darbuotoja 3.
+T=176 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=177 Klientas (paprastas) 63 nueina pas darbuotoja 4.
+T=178
+T=179
+T=180
+T=181
+T=182
+T=183 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=184 Klientas (paprastas) 65 nueina pas darbuotoja 3.
+T=185 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=186 Klientas (paprastas) 70 nueina pas darbuotoja 4.
+T=187
+T=188
+T=189
+T=190
+T=191
+T=192 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=193 Klientas (paprastas) 72 nueina pas darbuotoja 3.
+T=194 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=195 Klientas (paprastas) 74 nueina pas darbuotoja 4.
+T=196
+T=197
+T=198
+T=199
+T=200
+T=201 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=202 Klientas (paprastas) 75 nueina pas darbuotoja 3.
+T=203 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=204 Klientas (paprastas) 76 nueina pas darbuotoja 4.
+T=205
+T=206
+T=207
+T=208
+T=209
+T=210 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+T=211 Klientas (paprastas) 79 nueina pas darbuotoja 3.
+T=212 Darbuotojas (paprastiems klientams) 4 atsilaisvino.
+T=213
+T=214
+T=215
+T=216
+T=217
+T=218
+T=219 Darbuotojas (paprastiems klientams) 3 atsilaisvino.
+
+Suminis kasininku prastovu laikas: 23
+Trigubas paprasto kliento laukimo vidurkis: 99.712500
+Vip desimtgubas ilgiausias laukimo laikas: 160
+Dvigubas kasininku virsvalandziu laikas: 474
+
+
+III DALIS
+
+Prastovu kiekis:                                    Procesas 1=6          Procesas 2=23
+Trigubas paprasto kliento laukimo vidurkis:         Procesas 1=76.612503  Procesas 2=99.712502
+Desimtgubas ilgiausiai laukusio vip kliento laikas: Procesas 1=40         Procesas 2=160
+Dvigubas banko darbuotoju virsvalandziu laikas:     Procesas 1=500        Procesas 2=526
+
+Ivertinus pagal duotus rodiklius procesas 1 yra efektyvesnis
